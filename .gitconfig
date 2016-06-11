@@ -1,7 +1,7 @@
+[user]
+    name = naokato
 [alias]
     st = status
     di = diff
 [color]
-	ui = auto
-[user]
-	name = naokato
+    ui = auto
