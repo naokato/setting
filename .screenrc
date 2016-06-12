@@ -1,0 +1,14 @@
+escape ^Tt
+hardstatus alwayslastline "[%m/%d %02c] %`%-w%{=b b2}%n %t%{-}%+w"
+autodetach on
+vbell off
+defmonitor on
+defscrollback 1000
+msgwait 10
+startup_message off
+shell bash
+defbce "on"
+
+bind ^U encoding utf8 utf8
+bind ^E encoding eucjp utf8
+bind ^J encoding sjis utf8

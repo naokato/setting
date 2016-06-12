@@ -2,3 +2,4 @@
 
 cp ./.gitconfig ~/
 cp ./.vimrc ~/
+cp ./.screenrc ~/
